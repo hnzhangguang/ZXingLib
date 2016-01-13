@@ -1,6 +1,5 @@
-# ZXingLib
-
-博客地址：http://blog.csdn.net/q4878802/article/details/50440807
+# 博客地址
+    http://blog.csdn.net/q4878802/article/details/50440807
 
 
 #Android二维码扫描、生成
